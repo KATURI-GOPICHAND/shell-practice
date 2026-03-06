@@ -1,4 +1,4 @@
-#!\nin\bash
+#!\bin\bash
 
 echo "Gopi : Hello Chand"
 echo "Chand: Hi Gopi"
