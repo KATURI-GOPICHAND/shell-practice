@@ -25,7 +25,7 @@ fi
 for package in $@  # sh 14-loops.sh nginx mysql nodejs
 do 
     dnf install $package -y &>> $LOGS_FILE  
-    VALIDATE $? "package installation"
+    VALIDATE $? "$package installation"
 done
 
 
