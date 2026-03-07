@@ -2,7 +2,7 @@
 
 USERID=$(id -u) # u -> print only effective userID
 
-if ( USERID -ne 0 ); then
+if ( $USERID -ne 0 ); then
 echo "please run the script with root user access"
 exit 1
 fi
