@@ -1,7 +1,7 @@
 #!/bin/bash
 
 START_TIME=$(date +%s)
-echo "script executed at :: $STAR_TTIME"
+echo "script executed at : $STAR_TTIME"
 
 sleep 10
 END_TIME=$(date +%s)
