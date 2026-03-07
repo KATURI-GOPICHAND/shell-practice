@@ -8,4 +8,3 @@ echo "your your user name is $USER_NAME"
 echo "please enter your password ::"
 read -s PASSWORD
 
-echo "your your password is $USER_NAME"
