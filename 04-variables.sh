@@ -7,5 +7,5 @@ echo "$PERSON1 : Hello $PERSON2, how are you"
 echo "$PERSON2 : Hi $PERSON1,what abou you"
 
 
-echo "$PERSON1 : $PERSON2, are you practicing DevOps"
-echo "$PERSON2 : yes, how your practice is"
+echo "$PERSON1 : $PERSON2, are you practicing"
+echo "$PERSON2 : practicing, how is your practice"
