@@ -12,10 +12,10 @@ SUM2=$(($NUM1+$NUM3))
 echo "sum of $NUM1 and $NUM3 is: $SUM2"
 
 # Array 
-FRUITS=("Apple, Banana, mango, Kiwi")
+FRUITS=("Apple" "Banana" "mango" "Kiwi")
 
 echo "Fruits are: ${FRUITS[@]}"
 echo "First Fruit is: ${FRUITS[0]}"
 echo "Second Fruit is: ${FRUITS[1]}"
 echo "Third Fruit is: ${FRUITS[2]}"
-echo "First Fruit is: ${FRUITS[3]}"
+echo "Third Fruit is: ${FRUITS[3]}"
